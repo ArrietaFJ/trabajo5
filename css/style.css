@@ -1,0 +1,32 @@
+body {
+  background: #8f8282;
+}
+img {
+  width: 250px;
+  border: 50px;
+  box-shadow: 3px 3px 5px #030303;
+  border-radius: 5%;
+}
+
+h1 {
+  background: #7e0606;
+  color: #748385;
+  text-decoration: underline;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.texto {
+  background: #720808;
+  color: rgb(90, 112, 112);
+}
+p {
+  background: #000;
+  padding: 1rem;
+}
+
+.p_2 {
+  border: 1px dashed #f7f3f3;
+  background: #000;
+}
